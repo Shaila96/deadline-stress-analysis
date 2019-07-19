@@ -1,34 +1,4 @@
+--- noise reduced pp file found ---
 T001-Day1-Baseline: SUCCESSFUL
+--- noise reduced pp file NOT found ---
 T001-Day1-WorkingSession: SUCCESSFUL
-T001-Day2-Baseline: SUCCESSFUL
-T001-Day2-WorkingSession: SUCCESSFUL
-T001-Day3-Baseline: SUCCESSFUL
-T001-Day3-WorkingSession: SUCCESSFUL
-T001-Day4-Baseline: SUCCESSFUL
-T001-Day4-WorkingSession: SUCCESSFUL
-T003-Day1-Baseline: SUCCESSFUL
-T003-Day1-WorkingSession: SUCCESSFUL
-T003-Day2-Baseline: SUCCESSFUL
-T003-Day2-WorkingSession: SUCCESSFUL
-T003-Day3-Baseline: SUCCESSFUL
-T003-Day3-WorkingSession: SUCCESSFUL
-T003-Day4-Baseline: SUCCESSFUL
-T003-Day4-WorkingSession: SUCCESSFUL
-T005-Day1-Baseline: SUCCESSFUL
-T005-Day1-WorkingSession: SUCCESSFUL
-T005-Day2-Baseline: SUCCESSFUL
-T005-Day2-WorkingSession: SUCCESSFUL
-T005-Day3-Baseline: SUCCESSFUL
-T005-Day3-WorkingSession: SUCCESSFUL
-T005-Day4-Baseline: SUCCESSFUL
-T005-Day4-WorkingSession: SUCCESSFUL
-T005-Day5-Baseline: SUCCESSFUL
-T005-Day5-WorkingSession: SUCCESSFUL
-T007-Day1-Baseline: SUCCESSFUL
-T007-Day1-WorkingSession: SUCCESSFUL
-T007-Day2-Baseline: SUCCESSFUL
-T007-Day2-WorkingSession: SUCCESSFUL
-T007-Day3-Baseline: SUCCESSFUL
-T007-Day3-WorkingSession: SUCCESSFUL
-T007-Day4-Baseline: SUCCESSFUL
-T007-Day4-WorkingSession: SUCCESSFUL
